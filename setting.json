@@ -2,7 +2,7 @@
   "name-web":"among us free download",
   "author":"among us free download",
   "remove-comment-html":true,
-  "target":"https://downloads.digitaltrends.com/among-us/android",
+  "target":"https://amongusgame.org/download",
   "name-folder-sitemap":"sitemap",
   "element-remove":[
     "script",
@@ -19,7 +19,7 @@
   ],
   "costom-element-remove":[
     {
-      "target":"downloads.digitaltrends.com/among-us/android",
+      "target":"amongusgame.org/download",
       "element-remove-selector":[
         ".baca",
         ".op-interactive",
